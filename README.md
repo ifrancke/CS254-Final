@@ -12,3 +12,5 @@ inital_model_data_preprocessing.pynb: preprocessing/cleaning of data for trainin
 
 RandomForest.pynb: training for initial random forest model 
 
+Logistic_Regression.ipynb: training for initial logistic regression
+
