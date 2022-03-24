@@ -7,3 +7,4 @@ We used the [2019 NHIS adult interview dataset](https://www.cdc.gov/nchs/nhis/20
 ## Scripts contained in this repo:
 
 inital_model_data_preprocessing.pynb: preprocessing/cleaning of data for training initial model 
+RandomForest.pynb: training for initial random forest model 
