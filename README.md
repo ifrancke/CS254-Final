@@ -14,3 +14,4 @@ RandomForest.pynb: training for initial random forest model
 
 Logistic_Regression.ipynb: training for initial logistic regression
 
+SVM.ipynb: training for initial SVM model with binary encoding
