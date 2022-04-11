@@ -10,6 +10,8 @@ InitialDataExploration.pynb: exploring dataset, looking at size, missing data, d
 
 inital_model_data_preprocessing.pynb: preprocessing/cleaning of data for training initial model 
 
+Data_Cleaning_Final.pynb: final data cleaning, replacing appropriate NANs as NA (not applicable, code = 10)
+
 RandomForest.pynb: training for initial random forest model 
 
 Logistic_Regression.ipynb: training for initial logistic regression
