@@ -14,6 +14,8 @@ Data_Cleaning_Final.pynb: final data cleaning, removes irrelevant columns, remov
 
 RandomForest.pynb: training for initial random forest model 
 
+RandomForestFinalModelParameterOptimization.ipynb: optimization and training for final random forest models including parameter search with cross-validation
+
 Logistic_Regression.ipynb: training for initial logistic regression
 
 SVM.ipynb: training for initial SVM model with binary encoding
