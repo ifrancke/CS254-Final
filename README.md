@@ -16,6 +16,8 @@ RandomForest.pynb: training for initial random forest model
 
 RandomForestFinalModelParameterOptimization.ipynb: optimization and training for final random forest models including parameter search with cross-validation
 
+RandomForestFeatureSelection.pynb: analyzes feature importance using permutation and iteratively selects features using cross validation
+
 Logistic_Regression.ipynb: training for initial logistic regression
 
 SVM.ipynb: training for initial SVM model with binary encoding
