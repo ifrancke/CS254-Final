@@ -12,6 +12,8 @@ inital_model_data_preprocessing.pynb: preprocessing/cleaning of data for trainin
 
 Data_Cleaning_Final.pynb: final data cleaning, removes irrelevant columns, removes missing data codes for numerical and categorical ordinal data without N/A's, replaces appropriate NaNs with an N/A code for categorical data, splits into training and testing data, normalizes numerical data, one-hot encodes nomical categorical data
 
+DataImputation.ipynb: removes data randomly and imputes it using a simple imputation strategy (univariate imputation: mode for categorical data, median for numerical data)
+
 RandomForest.pynb: training for initial random forest model 
 
 RandomForestFinalModelParameterOptimization.ipynb: optimization and training for final random forest models including parameter search with cross-validation
