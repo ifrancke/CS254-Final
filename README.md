@@ -14,6 +14,8 @@ Data_Cleaning_Final.pynb: final data cleaning, removes irrelevant columns, remov
 
 DataImputation.ipynb: removes data randomly and imputes it using a simple imputation strategy (univariate imputation: mode for categorical data, median for numerical data)
 
+FAMD.pynb: performs dimensionality reduction on features using FAMD
+
 RandomForest.pynb: training for initial random forest model 
 
 RandomForestFinalModelParameterOptimization.ipynb: optimization and training for final random forest models including parameter search with cross-validation
