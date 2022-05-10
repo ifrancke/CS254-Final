@@ -22,6 +22,8 @@ RandomForestFinalModelParameterOptimization.ipynb: optimization and training for
 
 RandomForestFeatureSelection.pynb: analyzes feature importance using permutation and iteratively selects features using cross validation. trains models with reduced feature datasets. 
 
+RFC_ImputedDataTest.pynb: Testing on all random forest models using imputed datasets. 
+
 Logistic_Regression.ipynb: training for initial logistic regression
 
 SVM.ipynb: training for initial SVM model with binary encoding
